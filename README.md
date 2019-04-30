@@ -21,3 +21,4 @@ Halaman Admin
 ![alt text](https://github.com/RaflyAmartharizqi/Toko-Online-Baju-/blob/master/ss/Screenshot%20(57).png)
 ![alt text](https://github.com/RaflyAmartharizqi/Toko-Online-Baju-/blob/master/ss/Screenshot%20(58).png)
 ![alt text](https://github.com/RaflyAmartharizqi/Toko-Online-Baju-/blob/master/ss/Screenshot%20(59).png)
+![alt text](https://github.com/RaflyAmartharizqi/Toko-Online-Baju-/blob/master/ss%20register.png)
