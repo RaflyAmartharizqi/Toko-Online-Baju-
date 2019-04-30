@@ -1,0 +1,31 @@
+div.kotak{
+	width: 50%;
+	height: 70%;
+	background-color: red;
+	float: left;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.kotak .kiri{
+    width: 50%;
+    height: 100%;
+    float: right;
+    background-color: lightgray;
+}
+.kotak .kanan{
+    width: 50%;
+    height: 100%;
+    float: right;
+    background-color: red;
+}
+input{
+    font-family: 'Helvetica',sans-serif;
+    padding: 10px 20px 10px 20px;
+    outline: none;
+    border-radius: 3px;
+    border: 1px solid #888;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 16px;
+}

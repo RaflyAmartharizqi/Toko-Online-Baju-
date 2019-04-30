@@ -1,0 +1,23 @@
+div.kotak{
+	width: 70%;
+	height: 70%;
+	background-color: green;
+	float: left;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.kotak .kanan{
+    width: 70%;
+    height: 100%;
+    float: right;
+    background-color: red;
+}
+.kotak .kiri{
+    width: 70%;
+    height: 100%;
+    float: right;
+    background-color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}

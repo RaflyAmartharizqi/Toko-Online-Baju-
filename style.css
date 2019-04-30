@@ -1,0 +1,34 @@
+.jarak{
+	float: right;
+	width: 40px;
+	height: 40px;
+	background-color: red;
+}
+.fuck{
+	width: 80%;
+	height: 150%;
+	background-color: red;
+	float: left;
+	text-align: center;
+
+}div.kotak{
+	width: 50%;
+	height: 70%;
+	background-color: red;
+	float: left;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.kotak .kiri{
+    width: 50%;
+    height: 100%;
+    float: right;
+    background-color: lightgray;
+}
+.kotak .kanan{
+    width: 50%;
+    height: 100%;
+    float: right;
+    background-color: red;
+}
