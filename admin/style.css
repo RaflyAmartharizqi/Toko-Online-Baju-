@@ -1,0 +1,91 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    margin: 0 auto;
+    width: 100%;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+.content{
+    width: 80%;
+    height: 200%;
+    background: #fff;
+    float: right;
+}
+.baju{
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: red;
+    float: left;
+}
+
+}
+.baju h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: peru;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+table{
+    
+}
+.kiri{
+    height: 120%;
+    width: 23%;
+    background-color: darkgrey;
+    float: left;
+}
+.kanan{
+    height: 120%;
+    width: 77%;
+    float: left;
+    background-color: lightgrey;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.login-box{
+    margin-top: 100px;
+    flex-basis: 400px;
+    background: #fff;
+    padding: 20px;
+}
+.login-box h2{
+    border-bottom: 1px solid #ccc;
+    color: #555;
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 0 0 20px;
+}
+input, select{
+    width: 89% ;
+    padding: 15px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+}
+input[type=submit]{
+    background-color: #038ade;
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    width: 100%;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.beranda{
+    width: 100%;
+    height: 20%;
+    background-color: red;
+}
